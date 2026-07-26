@@ -1,0 +1,146 @@
+{
+  "event_id": 210,
+  "title_jp": "褪せない今を、彩って",
+  "title_cn": "为不褪色的当下着色",
+  "outline_jp": "まふゆが奏の家に戻って以降、ふたりの様子が心配な絵名。今の自分達ができることは何か、と瑞希と話し合い1日でみんなの行きたい場所を巡るプチ旅行をすることになり……？",
+  "outline_cn": "自从真冬回到奏的家后，绘名就很担心她们两人的状况。在与瑞希商量“现在的自己能做些什么”之后，她们决定举办一次在一天内游览大家想去的地方的微旅行……？",
+  "summary_cn": "为了让疲惫的奏和真冬放松心情，绘名和瑞希策划了一场不设预定路线的“随性之旅”。四人先后前往了游戏中心、寻找奏回忆中的和菓子店、挑战户外拓展项目，最后在真冬的提议下来到海边放烟花。看着大家在烟花下的欢笑，绘名用画笔记录下了这珍贵的瞬间。这次旅行不仅让大家得到了放松，也成为了“25点”成员们心中永远不会褪色的美好回忆。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "募るもどかしさ",
+      "title_cn": "愈发强烈的焦躁感",
+      "summary_cn": "绘名买完画材回家继续画画，虽然深知自己距离考上东美还有差距，但感觉比以前画得更顺手了。这时她收到奏发来的多首新Demo，惊叹于奏的高产，同时也有些担心她过度沉迷。绘名登录Nightcord与瑞希聊天，得知奏在真冬的催促下刚去吃东西。想到最近发生的事，绘名和瑞希都因无法为奏和真冬提供更多帮助而感到无力和焦躁。最后，绘名提出希望能让大家稍微放松一下，这引起了瑞希的注意。",
+      "character_ids": [
+        19,
+        20,
+        18,
+        17
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "気まぐれ旅行へ！",
+      "title_cn": "随性之旅！",
+      "summary_cn": "瑞希认为大家未来会走向不同的道路，趁现在有空应该做些只有当下能做的事。为了兼顾特别感与惊喜感，瑞希提议举办一次“随性之旅”：不提前规划路线，而是由每个人在当天根据心情轮流提出想去的地方并前往。为了将惊喜贯彻到底，她们决定对奏和真冬保密旅行的具体内容，只在奏上线后与她约好了下次聚会时空出一整天的时间。",
+      "character_ids": [
+        19,
+        20,
+        17,
+        18,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "最初の場所は",
+      "title_cn": "第一个地方是",
+      "summary_cn": "旅行的第一站是游戏中心。瑞希带大家来玩她最喜欢的魔法少女动画《MiraMaji》与VR射击游戏的联名款。瑞希介绍称该游戏操作简单且能解压，通关还能获得限定视频，但她却故意隐瞒了敌人是僵尸的事实。当看到游戏机上恐怖的僵尸图案时，本就不擅长射击游戏的绘名和奏吓了一跳。面对绘名的质问，瑞希调皮地糊弄了过去，而真冬和流歌关于僵尸的讨论更是让害怕的绘名直呼不要再脑补了。",
+      "character_ids": [
+        18,
+        19,
+        17,
+        20,
+        23,
+        21,
+        22,
+        24
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "思い出の味",
+      "title_cn": "回忆的味道",
+      "summary_cn": "在随性之旅的第二站，大家来到住宅区寻找奏想去的一家和菓子店。由于奏不记得店名，大家在附近找了数十分钟也未能找到，真冬便提议用手机搜索。奏为自己不记得名字而向大家道歉。绘名和瑞希对此感到有些意外，因为奏平时看起来对这些并不感兴趣，瑞希便好奇地询问那家店是不是特别好吃，奏正准备开口回答。",
+      "character_ids": [
+        19,
+        17,
+        20,
+        18,
+        23,
+        22,
+        21,
+        24,
+        25
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "まさかの到着地",
+      "title_cn": "意想不到的目的地",
+      "summary_cn": "大家在乃木公园品尝了刚出炉、甜而不腻的薄皮馒头。绘名感谢奏分享了这家美味的店，奏也感谢大家陪她一起寻找，并打算下次把给未来她们的伴手礼带去“世界”。奏表示自己虽然没买自己的份，但给祖母买了，而且既然知道了店的位置，以后随时都能来。随后，轮到绘名决定下一个目的地。面对绘名有些犹豫地提出去购物或咖啡厅，瑞希敏锐地追问这是否真的是她最想去的地方。",
+      "character_ids": [
+        20,
+        18,
+        19,
+        17,
+        21,
+        22,
+        24
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "ドタバタアスレチック！",
+      "title_cn": "手忙脚乱的户外拓展！",
+      "summary_cn": "大家在顺利通关泰山绳后迎来了最后一项挑战——“水蜘蛛”。面对落水风险，绘名一度想要放弃，但瑞希主动示范并轻松通关，还表示会在终点接应大家。受到鼓励的奏决定尝试，她固定好装备，用木棒保持平衡艰难地向前移动。在绘名和瑞希的加油声中，奏虽然顺利前进了一段距离，却在途中突然停了下来。面对大家的关切询问，奏表示并不是被卡住了，而是遇到了其他状况。",
+      "character_ids": [
+        17,
+        19,
+        18,
+        20,
+        21,
+        25,
+        24,
+        23,
+        22
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "茜色のひととき",
+      "title_cn": "茜色的时光",
+      "summary_cn": "真冬提议去海边，大家决定吃完刨冰后出发，并准备在海边放烟花。来到海边后，大家吹着海风、寻找贝壳，真冬和奏都得到了放松。绘名在一旁画着大家，MEIKO和铃见状便过来与她聊天。绘名表示，因为大家未来的路各不相同，以后可能无法像现在这样聚在一起，所以她想用画笔记录下此刻自己眼中的“25点”景色，将今天的美好时光作为珍贵的回忆永远保存下来。",
+      "character_ids": [
+        19,
+        25,
+        18,
+        20,
+        17,
+        24,
+        23,
+        21,
+        22
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "いつか、この気持ちを",
+      "title_cn": "终有一天，这份心情",
+      "summary_cn": "大家在海边开始放烟花，虚拟歌手们也加入其中，众人一起愉快地尝试各种有趣的烟花。看着大家在烟花映照下的欢笑脸庞，绘名决定将这一幕也画下来。这时她发现素描本已经画到了最后一页，虽然觉得大家一起在户外游玩有些不像“25点”的作风，但她由衷地庆幸自己今天来了，并决定用尽全力画下眼前的景色。随后，瑞希也热情地邀请画完画的绘名一起加入接下来的线香花火对决。",
+      "character_ids": [
+        22,
+        21,
+        23,
+        24,
+        25,
+        19,
+        20,
+        18,
+        17
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_addcolor_2026/event_addcolor_2026_08.webp"
+    }
+  ]
+}

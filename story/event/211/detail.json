@@ -1,0 +1,128 @@
+{
+  "event_id": 211,
+  "title_jp": "君の隣、君と見る明日",
+  "title_cn": "在你身边，与你共盼明日",
+  "outline_jp": "セカイで出会った咲希、冬弥、類、瑞希、KAITOは互いに傷つけ合っている２つの想いの欠片に遭遇する。見つけ出した想いの持ち主達も周囲が心配する程のケンカをしており、仲を取り持とうと試みるが——。",
+  "outline_cn": "在“世界”相遇的天马咲希、青柳冬弥、神代类、晓山瑞希和KAITO，遭遇了两个互相伤害的心愿碎片。他们发现心愿的主人们也正发生着让周围人担心的激烈争吵，于是试图帮他们重归于好，然而——",
+  "summary_cn": "天马咲希、青柳冬弥、神代类、晓山瑞希与KAITO在“世界”相遇，并因两个激烈碰撞的心愿碎片，介入了神山高中排球部青梅竹马守屋与间岛的矛盾中。为了帮助因害怕伤害彼此而争吵的两人，大家分工合作：咲希与冬弥在“世界”创作歌曲，由KAITO深情演唱；类与瑞希则在现实中排演戏剧，引导她们直面真心。最终，两位学姐重归于好，心愿碎片合二为一诞生了新“世界”，各世界的KAITO也奇迹般齐聚一堂。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "ぶつかり合う想いの欠片",
+      "title_cn": "碰撞的心愿碎片",
+      "summary_cn": "KAITO突然被传送到一个体育馆，并听到两名少女激烈争吵，随后他回到了由天马咲希、青柳冬弥、神代类和晓山瑞希的心愿相连而成的“世界”。大家聚在一起交流，得知他们是通过各自“世界”中的树木来到这里的。此时，众人回想起传送时都听到了那场争吵，并推测那是神山高中的体育馆。突然，树旁出现两个激烈碰撞并飞走的神秘光团，KAITO等人前去查看，确认那是“心愿碎片”。",
+      "character_ids": [
+        22,
+        21,
+        26,
+        2,
+        20,
+        12,
+        16
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "もう悔やまないために",
+      "title_cn": "为了不再后悔",
+      "summary_cn": "咲希等人获得神高访问许可后，在体育馆目击了排球部部长守屋那奈与间岛律的争吵。通过后辈木村，大家得知间岛因顾及守屋而放弃了强豪大学的特待生名额，导致两人关系恶化。咲希和类等人分别尝试劝说两人，但均遭拒绝。为了不让这对青梅竹马留下遗憾，咲希连续几天来到神高试图说服守屋，守屋却表示大家都不了解真实的自己。面对瑞希的佩服，咲希坦言自己只是无法坐视不管。",
+      "character_ids": [
+        16,
+        20,
+        12,
+        2,
+        26,
+        187,
+        188,
+        3,
+        4,
+        1
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "イチかバチかの勝負",
+      "title_cn": "孤注一掷的对决",
+      "summary_cn": "冬弥和类再次劝说间岛，得知她因多次被守屋拒绝而不敢再迈出一步。为了帮她重拾勇气，冬弥提出挑战：若他们能接住间岛的一记扣球，间岛就必须答应再与守屋沟通。咲希和瑞希也加入挑战。面对身为排球部王牌、扣球威力惊人的间岛，毫无球类经验的冬弥等人起初连球都碰不到，但在不断尝试下，冬弥终于触碰到了球。眼看时间将尽，间岛宣布最后只剩三球。",
+      "character_ids": [
+        188,
+        12,
+        16,
+        2,
+        20,
+        26
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "虚飾から本心を",
+      "title_cn": "褪去虚饰的真心",
+      "summary_cn": "冬弥等人促成了守屋与间岛的对话。间岛坦言因不想与守屋分开才拒绝特待生，而守屋则因无法获得特待生的自责与嫉妒对间岛发火。两人再次争吵，守屋情绪失控，吐露出对间岛才能的嫉妒，随后两人陷入痛苦。类指出，激烈的冲突让她们的感情变得浑浊，从而用虚势伪装并企图逃避。此时，KAITO发来紧急联络，称“世界”的树木发光，心愿碎片再次产生剧烈碰撞，众人随即赶往“世界”。",
+      "character_ids": [
+        187,
+        188,
+        12,
+        16,
+        2,
+        20,
+        26
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "雨のち……",
+      "title_cn": "雨后……",
+      "summary_cn": "为了帮助守屋和间岛，众人决定从现实和“世界”两方面入手。在“世界”中，咲希和冬弥负责写歌，由KAITO通过心愿碎片将歌声传达给两人。在现实中，类策划了一场名为《雨与太阳》的戏剧，讲述两个因害怕伤害彼此而迷茫的少女的故事。瑞希对此产生强烈共鸣，主动申请饰演主角“小雨”。瑞希向类坦言，自己能理解两位学姐害怕伤害对方的心情，就像绘名没有放弃自己一样，她也想帮她们。类则鼓励瑞希在表演中用真心话进行即兴发挥。",
+      "character_ids": [
+        2,
+        26,
+        12,
+        16,
+        20,
+        187,
+        188,
+        40,
+        17,
+        18,
+        19
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "あとほんの少しの勇気を",
+      "title_cn": "只需再多一点勇气",
+      "summary_cn": "在“世界”中，KAITO坚信大家能将心意传达给守屋和间岛。此时，咲希和冬弥及时赶在演出前完成了倾注心意的歌曲并送达。由于在现实的演出期间咲希和冬弥无法进入“世界”，他们便将歌曲托付给KAITO。KAITO注意到，得益于类和瑞希正在进行的戏剧，心愿碎片已逐渐平静。为了不辜负大家的努力，并向两位学姐传递力量，KAITO倾注心血，在“世界”中深情地唱起了这首饱含心意的歌曲。",
+      "character_ids": [
+        26,
+        2,
+        12,
+        187,
+        188,
+        16,
+        20
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "待ち遠しい未来",
+      "title_cn": "令人期待的未来",
+      "summary_cn": "第二天，守屋和间岛向咲希等人透露，两人决定一起报考同一所国立大学并继续打排球，大家纷纷送上祝福。随后，众人突然被传送回“世界”，亲眼见证了那两个修复的心愿碎片合二为一、诞生出全新“世界”的奇妙瞬间。此时，瑞希手机中“无人的世界”的KAITO突然发声，紧接着其他世界的KAITO们也纷纷现身。原来他们因担心瑞希而通过树木的异动在此齐聚，大家在欢声笑语中迎来了奇迹般的重逢。",
+      "character_ids": [
+        26,
+        16,
+        2,
+        12,
+        20,
+        188,
+        187
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_part4_2026/event_wl_3rd_part4_2026_07.webp"
+    }
+  ]
+}
