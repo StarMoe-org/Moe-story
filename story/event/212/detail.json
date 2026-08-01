@@ -1,0 +1,121 @@
+{
+  "event_id": 212,
+  "title_jp": "Echo of a Prayer",
+  "title_cn": "祈祷的回响",
+  "outline_jp": "Leo/needと個人の活動、どちらも順調な一歌。そんな中、バーチャル・シンガーの曲を投稿するイベントに挑戦することに。バンドの新しい仕事も舞い込む中、学校やバンド練習ともなんとか両立しながら、曲作りに励むが——。",
+  "outline_cn": "星乃一歌在Leo/need和个人活动两方面都进展顺利。在此期间，她决定挑战一个投稿虚拟歌手歌曲的活动。在乐队的新工作也接踵而至的情况下，她一边努力兼顾学校和乐队练习，一边致力于歌曲创作，然而——。",
+  "summary_cn": "星乃一歌在兼顾Leo/need活动的同时，致力于虚拟歌手歌曲的创作，并因出色的编曲获得了专业人士的认可与事务所“Opus Project”的签约邀请。然而，面对乐队未来日益繁忙的日程，一歌担心个人活动会影响与成员们共同前进的步伐。在与制作人真堂及镜音铃、连交流后，她明确了自己最珍视的是Leo/need。在联合演出大获成功后，一歌拒绝签约的决定也让其他成员们产生了一些担忧。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "充実した日々",
+      "title_cn": "充实的日子",
+      "summary_cn": "星乃一歌在房间里专注于将一首原曲为电子舞曲的歌曲改编为乐队风格，并尝试让乐器和歌声更接近现场演奏的效果。正当她觉得获益匪浅时，镜音铃和镜音连突然出现。原来他们听说今天大家休息，铃便拉着连来找一歌玩。一歌表示并没有打扰到自己，此时刚好告一段落。随后，铃好奇地询问一歌是不是又在创作初音未来的歌曲。",
+      "character_ids": [
+        1,
+        21,
+        22,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "新しい挑戦",
+      "title_cn": "新的挑战",
+      "summary_cn": "星乃一歌在校门口等待大家时，利用空闲时间检查了私信和邮件。数日后，在Solis Record事务所，她看到了一封来自作曲家的信息。对方高度赞赏了一歌前几天提交的编曲，称赞其既保留了个人风格又充满惊喜，让人忍不住单曲循环，并表示原曲粉丝也一定会喜欢，非常期待歌曲公开。一歌看着这条消息，内心感到无比喜悦。",
+      "character_ids": [
+        1,
+        4,
+        3,
+        2,
+        113
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "両立のために",
+      "title_cn": "为了兼顾",
+      "summary_cn": "在教室的世界中，Leo/need的成员们与虚拟歌手们讨论即将参加的联合演出。大家认为这是让更多人了解乐队的绝佳机会，并为此斗志昂扬。为了帮她们更好地模拟现场，MEIKO提议由虚拟歌手们担任对手乐队进行模拟对决，得到了大家的热烈响应。随后，成员们开始商讨演出细节，针对30分钟的演出时间，她们决定通过增加歌曲改编来弥补没有新歌的遗憾，并思考如何配合出场顺序来调动现场气氛。",
+      "character_ids": [
+        21,
+        24,
+        1,
+        4,
+        26,
+        3,
+        2,
+        22,
+        23,
+        25
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "転機",
+      "title_cn": "转机",
+      "summary_cn": "星乃一歌为了让歌曲副歌部分听起来更丰满，不断调整和声并添加合成器音效。几天后，在初音未来的歌声伴随下，她终于完成了准备投稿的歌曲，甚至不知不觉熬了通宵。两周后，在学校中庭，一歌回想起创作时灵感不断涌现的快乐，感叹时间过得飞快。由于距离投稿截止还有时间，她决定继续完善歌曲并想好标题，同时也十分期待未来和大家听到这首歌时的反应。",
+      "character_ids": [
+        1,
+        21,
+        2,
+        3,
+        4
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "意外な答え",
+      "title_cn": "意想不到的回答",
+      "summary_cn": "星乃一歌在网上查询了向她发出邀请的“Opus Project”的相关信息，发现这是一个专门支持虚拟歌手创作者的事务所。虽然对方只邀请了她个人（ichi）且不知道她属于Leo/need，但考虑到自己已经与Solis Record签约，一歌决定婉拒邀请。然而，她纠结于是否应该向对方说明Leo/need的事情，为了避免给乐团带来不必要的麻烦，她决定先去向真堂咨询。",
+      "character_ids": [
+        1,
+        113
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "選択肢を前に",
+      "title_cn": "面对选择",
+      "summary_cn": "星乃一歌向真堂咨询个人签约的事宜。真堂解释称，一歌与Solis Record的签约是以Leo/need名义进行的，因此个人活动不受限制。但作为Leo/need的制作人，他坦言由于乐队未来有许多大型企划且工作量会增加，一歌兼顾两边并不理想。不过，真堂也表示理解并支持一歌对虚拟歌手作曲的热情。一歌向真堂表达了感谢，并坦言自己目前正处于迷茫之中。",
+      "character_ids": [
+        1,
+        113,
+        3,
+        22,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "大事にしたいのは",
+      "title_cn": "想要珍视的是",
+      "summary_cn": "一歌向镜音铃和镜音连倾诉了自己对于是否与事务所签约的纠结。她坦言个人创作虽然快乐且签约能减轻负担，但若作为职业，未来可能会面临个人与乐队活动冲突、无法兼顾的局面。尽管铃和连鼓励她去尝试兼顾，但一歌表示，自己最不想看到因为个人活动而无法与Leo/need的成员们全力以赴地共同前进，因为大家一路走来互相支持、共同克服了许多困难。",
+      "character_ids": [
+        23,
+        1,
+        22
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "波紋は広がって",
+      "title_cn": "波纹在扩散",
+      "summary_cn": "在联合演出当天，一歌以极具感染力的歌声和演奏带动了全场气氛，令其他乐队的粉丝也记住了Leo/need。演出结束后，成员们和真堂都对一歌超越彩排的精彩表现赞不绝口。随后，一歌因家事先行回家，真堂看着关系融洽的成员们，感叹她们成长为了优秀的乐队，同时心中似乎另有考量。在家庭餐厅聚餐的咲希、志步和穗波在为一歌状态好转感到高兴的同时，也对一歌拒绝事务所邀请的决定感到有些担心。",
+      "character_ids": [
+        1,
+        2,
+        3,
+        4,
+        113
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_ofprayer_2026/event_ofprayer_2026_08.webp"
+    }
+  ]
+}
