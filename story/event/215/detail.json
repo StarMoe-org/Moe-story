@@ -1,0 +1,170 @@
+{
+  "event_id": 215,
+  "title_jp": "Mix&Make Party Time!!",
+  "title_cn": "Mix&Make Party Time!!",
+  "outline_jp": "他のセカイの自分達と出会ったことをきっかけに、もっと色々なバーチャル・シンガー達と仲良くなりたいと考えるストリートのセカイのルカ。どうすれば、みんなが交流できる場を作れるだろうと考えていると——。",
+  "outline_cn": "以与其他世界的自己相遇为契机，街头世界的巡音流歌想要和更多不同的虚拟歌手们搞好关系。就在她思考着该如何创造一个能让大家交流的场所时——",
+  "summary_cn": "街头世界的巡音流歌在与其他世界的自己相遇后，策划了一场旨在让不同世界的虚拟歌手和成员们友好相处的“大家成为朋友派对”。在大家的共同努力下，众人分工合作，顺利完成了派对的策划、装饰、菜单制定和食材采购。派对在WEEKEND GARAGE成功举办，大家品尝着美味料理，欣赏着KAITO的DJ表演，不仅增进了彼此的了解，也感受到了虚拟歌手与主人心愿之间的深刻羁绊。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "友達になりたい！",
+      "title_cn": "想要成为朋友！",
+      "summary_cn": "街头世界的巡音流歌兴奋地向初音未来和MEIKO分享自己与其他世界的流歌相遇的经历，感叹她们性格各异。MEIKO表示理解，未来也提到曾有一位性格开朗且贪吃的其他世界的MEIKO迷路来到这里。流歌听后十分渴望与对方见面，在得知对方身处心羽等人的朋友的世界后，流歌突然灵光一闪，声称有事便匆忙离开。MEIKO则在身后叮嘱她不要给心羽她们添麻烦。",
+      "character_ids": [
+        24,
+        21,
+        25,
+        10,
+        6,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "作戦会議！",
+      "title_cn": "作战会议！",
+      "summary_cn": "在乃々木公园，街头世界的巡音流歌向天马咲希和草薙宁宁阐述了她的“大家成为朋友大作战”计划。该计划旨在让不同世界的虚拟歌手们相互交流并友好相处。听完流歌的构想后，咲希觉得这个计划听起来非常有趣并感到十分兴奋，流歌也开心地对此表示赞同。",
+      "character_ids": [
+        10,
+        6,
+        20,
+        15,
+        2,
+        24,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "みんなが仲良くなるために",
+      "title_cn": "为了让大家友好相处",
+      "summary_cn": "在租借空间里，街头世界的巡音流歌召集了娱乐策划小组的成员们，共同为“大家成为朋友派对”商讨娱乐活动。花里实乃里表示可以利用自己平时策划直播的经验来帮忙。来自教室世界的镜音铃也积极响应，介绍自己作为“娱乐委员”在世界里策划活动的经历，并得到了天马咲希和初音未来的证实。看到如此可靠的成员齐聚一堂，大家干劲满满，决定共同策划出一场最棒的派对。",
+      "character_ids": [
+        24,
+        23,
+        2,
+        5,
+        14,
+        20,
+        10,
+        25,
+        26,
+        21,
+        22
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "楽しい気持ちは飾り付けから",
+      "title_cn": "快乐的心情从装饰开始",
+      "summary_cn": "在租借空间里，东云绘名、青柳冬弥等人正看着咖啡厅的照片聊天。草薙宁宁觉得不加装饰也挺好，但镜音连和镜音铃坚持派对需要有仪式感的装饰。期间，大家聊起不同世界的巡音流歌性格各异，有的爱打瞌睡，有的则爱恶作剧，这让虚拟歌手们对彼此更加好奇。看到虚拟歌手们迅速打成一片，星乃一歌、宁宁和冬弥感到羡慕的同时，也对接下来的顺利讨论感到欣慰。",
+      "character_ids": [
+        19,
+        12,
+        8,
+        1,
+        15,
+        23,
+        22,
+        25,
+        24,
+        26
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "みんなが喜ぶメニューを",
+      "title_cn": "让大家喜爱的菜单",
+      "summary_cn": "穗波、爱莉和奏与虚拟歌手们组成料理组商讨派对菜单。虽然多人不擅长料理，但大家一致认为心意最重要。讨论中，未来提议不限菜系，让大家能吃到和食、洋食和中华等各种料理，获得一致同意。随后，神代类提议将能带来幸福感的肉类作为主菜。面对炸鸡、汉堡肉和烤牛肉等众多提议，大家最终排除了不便制作的汉堡肉，并就制作小份炸鸡和烤牛肉的可行性展开了讨论。",
+      "character_ids": [
+        21,
+        22,
+        25,
+        23,
+        24,
+        26,
+        3,
+        7,
+        9,
+        16,
+        17
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "何が何でどれがどれ？",
+      "title_cn": "哪个是哪个？",
+      "summary_cn": "为了购买派对料理的材料，一众人在彰人的带领下来到超市。虽然具体菜单被保密，但大家依然兴致勃勃地猜测着。期间，志步和真冬聊起无人世界MEIKO的冷酷性格，流歌则觉得她很帅气。遥和志步发现购买的材料中蔬菜极少，司似乎猜到了原因，并决定顺便买些弹珠汽水。随后，大家来到牛奶专区，面对琳琅满目的牛奶种类，连注意到了特别的牛奶，众人随即展开了讨论。",
+      "character_ids": [
+        21,
+        24,
+        4,
+        22,
+        6,
+        11,
+        23,
+        13,
+        18,
+        25
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "パーティースタート！",
+      "title_cn": "派对开始！",
+      "summary_cn": "派对在WEEKEND GARAGE正式开始。实乃里、穗波和志步一到场就被精美的装饰和绘名等人制作的欢迎板所吸引，铃和连也兴奋地发现了大家的肖像画。KAITO表示大家在准备时都非常开心。随后，绘名看着美味的料理询问奏的情况，却遭到了无人的世界KAITO的冷淡回应。一旁的未来觉得绘名爱照顾人的样子和彰人很像，但遭到了这对姐弟俩的一致否认。",
+      "character_ids": [
+        5,
+        3,
+        23,
+        4,
+        22,
+        26,
+        11,
+        19,
+        17,
+        21,
+        24,
+        25,
+        12,
+        7,
+        20
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "最後に、届けたい想い",
+      "title_cn": "最后，想要传达的心意",
+      "summary_cn": "派对上，街头的世界的KAITO准备进行DJ表演，并与MEIKO一起鼓励有些不知所措的宁宁。另一边，无人的世界的流歌看着熟睡的虚拟歌手们，向真冬和咲希感叹大家的亲密。一歌、司和未来等人则探讨起虚拟歌手的个性受主人心愿影响的话题。随后，大家一边品尝着美味的料理，一边拍照留念。随着KAITO的DJ表演正式开始，大家开心地聚在一起，并在派对结束后与杏一同顺利完成了收拾工作。",
+      "character_ids": [
+        25,
+        10,
+        15,
+        26,
+        24,
+        18,
+        2,
+        14,
+        22,
+        21,
+        1,
+        13,
+        8,
+        16,
+        9,
+        20,
+        6,
+        23
+      ],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_partytime_2026/event_partytime_2026_08.webp"
+    }
+  ]
+}
