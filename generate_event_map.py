@@ -48,8 +48,8 @@ from collections import defaultdict
 # 配置
 # ---------------------------------------------------------------------------
 
-MASTER_BASE_URL = "https://sekaimaster.exmeaning.com/master"
-FALLBACK_BASE_URL = "https://sk.exmeaning.com/master"
+MASTER_BASE_URL = "https://metadata.exmeaning.com/jp/master"
+FALLBACK_BASE_URL = "https://raw.githubusercontent.com/Team-Haruki/haruki-sekai-master/refs/heads/main/master"
 
 # 活动团体映射 (复用自 EventFilters.tsx EVENT_TYPE_TO_FILTER_ID)
 EVENT_TYPE_TO_FILTER_ID = {

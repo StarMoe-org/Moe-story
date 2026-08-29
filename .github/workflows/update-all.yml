@@ -91,6 +91,11 @@ jobs:
 
           rm -rf moesekai-hub
 
+      - name: Regenerate event map CSV
+        if: steps.check_upstream.outputs.changed == 'true'
+        run: python generate_event_map.py
+        timeout-minutes: 5
+
       - name: Commit and push changes
         if: steps.check_upstream.outputs.changed == 'true'
         run: |

@@ -1,10 +1,15 @@
 # ProjectSekai 剧情资源仓库
 
-Crawled by [ProjectSekai & BangDream story crawler](https://github.com/ci-ke/ProjectSekai-BangDream-story-crawler)
+本仓库是《世界计划 多彩舞台！feat. 初音未来》(ProjectSekai / プロセカ) 的中文剧情文本资源库，供 AI 检索与阅读使用。
 
-[Online reading](https://ci-ke.github.io/story)
+剧情数据由 [GitHub Actions](.github/workflows/update-all.yml)（每 3 小时）自动同步自以下上游仓库：
 
-本仓库存储《世界计划 多彩舞台！feat. 初音未来》(ProjectSekai / プロセカ) 的中文剧情文本资源，供 AI 检索与阅读使用。
+| 上游仓库 | 提供内容 |
+|----------|----------|
+| [ci-ke/ProjectSekai-story](https://github.com/ci-ke/ProjectSekai-story) | 中日文剧情原文（`story/unit`、`story/event`、`story/card`、`story/self`、`story/special` 等） |
+| [moe-sekai/MoeSekai-Hub](https://github.com/moe-sekai/MoeSekai-Hub) | 活动剧情 AI 摘要（`detail.json`）与区域对话（`story/area`） |
+
+活动映射表 `story/event/event_map.csv` 由 `generate_event_map.py` 从 masterdata 服务器（主源 `https://metadata.exmeaning.com/jp/master`，fallback [Team-Haruki/haruki-sekai-master](https://github.com/Team-Haruki/haruki-sekai-master)）拉取生成，并在自动同步流程中一并刷新。
 
 ---
 
@@ -39,14 +44,14 @@ ProjectSekai-story/
 
 按组合 ID 分目录，每个目录下为该组合主线各话的文本文件。
 
-| 目录 ID | 组合名 | 文件数 | 文件命名规则 |
-|---------|--------|--------|-------------|
-| 1 | VIRTUAL SINGER (VS) | 20 | `vs{target}_01_{ep}.txt`，target 为 leo/mmj/street/nightcode/wonder |
-| 2 | Leo/need (Ln) | 21 | `leo_{chapter}_{ep}.txt`，ep=00 为序章 |
-| 3 | MORE MORE JUMP! (MMJ) | 21 | `mmj_{chapter}_{ep}.txt` |
-| 4 | Vivid BAD SQUAD (VBS) | 21 | `vbs_{chapter}_{ep}.txt` |
-| 5 | Wonderlands×Showtime (WxS) | 21 | `wonder_{chapter}_{ep}.txt` |
-| 6 | 25-ji, Nightcord de. (25h/niigo) | 21 | `nightcode_{chapter}_{ep}.txt` |
+| 目录 ID | 组合名 | 文件命名规则 |
+|---------|--------|-------------|
+| 1 | VIRTUAL SINGER (VS) | `vs{target}_01_{ep}.txt`，target 为 leo/mmj/street/nightcode/wonder |
+| 2 | Leo/need (Ln) | `leo_{chapter}_{ep}.txt`，ep=00 为序章 |
+| 3 | MORE MORE JUMP! (MMJ) | `mmj_{chapter}_{ep}.txt` |
+| 4 | Vivid BAD SQUAD (VBS) | `vbs_{chapter}_{ep}.txt` |
+| 5 | Wonderlands×Showtime (WxS) | `wonder_{chapter}_{ep}.txt` |
+| 6 | 25-ji, Nightcord de. (25h/niigo) | `nightcode_{chapter}_{ep}.txt` |
 
 - unit/1 (VS) 的文件名格式为 `vs{目标组合缩写}_01_{话数}.txt`，表示虚拟歌手在该组合「世界」中的主线剧情。
 - unit/2~6 的文件名格式为 `{组合缩写}_{章}_{话}.txt`，其中话数 `00` 为序章，`01` 起为正篇。
@@ -104,7 +109,7 @@ story/event/{eventId}/
 ```
 
 - `detail.json` 为 AI 生成的结构化总结，包含活动标题（日/中）、大纲、整体摘要及每话摘要。
-- `1.txt` ~ `8.txt` 为该活动各话的完整剧情文本。
+- `1.txt` ~ `8.txt` 为该活动各话的完整剧情文本（多数活动为 8 话，个别 2~15 话不等）。
 
 ---
 
@@ -116,9 +121,8 @@ story/event/{eventId}/
 story/card/{cardId}.txt
 ```
 
-- 共约 1300 个卡牌剧情文件。
 - 每个文件包含该卡牌的前篇和后篇剧情。
-- 文件首行格式：`{cardId}_{角色名}_{稀有度标识} {卡牌标题}`。
+- 文件首行格式：`{cardId}_{角色名}_{稀有度标识} {卡牌标题}`（部分文件附带关联事件标注，如 `(event_143)`）。
 
 ---
 
@@ -128,26 +132,24 @@ story/card/{cardId}.txt
 
 ### 子目录分类
 
-| 目录名 | 说明 | 数量 |
-|--------|------|------|
-| `event_{id}` | 活动 `id` 结束后新增的区域对话 | 197 个目录 |
-| `grade1` | 一年级区域对话 | 1 |
-| `grade2` | 二年级区域对话 | 1 |
-| `aprilfool{year}` | 愚人节特别区域对话 (2022~2026) | 5 |
-| `limited_{id}` | 限定区域对话 | 3 |
-| `theater` | 剧场区域对话 | 1 |
+| 目录名 | 说明 |
+|--------|------|
+| `event_{id}` | 活动 `id` 结束后新增的区域对话 |
+| `grade1` | 一年级区域对话 |
+| `grade2` | 二年级区域对话 |
+| `aprilfool{year}` | 愚人节特别区域对话 |
+| `limited_{id}` | 限定区域对话 |
+| `theater` | 剧场区域对话 |
 
 ### 文件结构
 
 ```
 story/area/{category}/
-├── _all.txt          # 该类别所有区域对话的合并文本
 ├── {actionSetId}.txt # 单条区域对话
 └── ...
 ```
 
-- 每个区域对话文件首行格式：`{unitId} {actionSetId} {type} 【{地点名}】`，其中 type 为 `area`（常驻）或 `event`（活动限定）。
-- `_all.txt` 为该类别下所有区域对话的合并文件，便于批量检索。
+- 每个区域对话文件首行格式：`{unitId} {actionSetId}:{fileName}`（如 `236 266:areatalk01_001`）。
 
 ---
 
@@ -159,7 +161,7 @@ story/area/{category}/
 story/self/{charaId}.txt
 ```
 
-- 共 22 个文件，覆盖全部可玩角色及虚拟歌手。
+- 每个可玩角色及虚拟歌手对应一个文件（文件名即角色 ID）。
 - 每个文件按学年分段（`《YEAR 1》`、`《YEAR 2》`），包含该角色在不同时期的自我介绍剧情。
 
 ### 角色 ID 对照
@@ -203,7 +205,6 @@ story/self/{charaId}.txt
 story/special/{spId}.txt
 ```
 
-- 共 64 个文件。
 - 内容包括：周年纪念动画、联动剧情、直播特别篇等。
 - 文件首行格式：`sp{spId}_{标题标识}`。
 
