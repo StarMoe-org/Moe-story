@@ -1,136 +1,73 @@
 {
   "event_id": 213,
   "title_jp": "Leap Beyond The Limits！",
-  "title_cn": "飞跃极限！",
+  "title_cn": "超越极限！",
   "outline_jp": "LUMINAグランプリの決勝ステージが開幕し、ついにCheerful＊Daysと対戦することになったMORE MORE JUMP！。グループとしての実力差に悩みながらも、遥は勝機を掴むための方法を探し続けるが——。",
-  "outline_cn": "LUMINA大奖赛的决赛舞台拉开帷幕，MORE MORE JUMP！终于迎来了与Cheerful＊Days的对决。尽管为组合之间的实力差距而烦恼，但遥依然在不断寻找抓住胜机的方法——。",
-  "summary_cn": "MORE MORE JUMP！晋级LUMINA大奖赛决赛。面对强敌与评委决胜的规则，遥深感实力差距，不断寻找胜机。在与对手千晴交流并刻苦训练后，遥深刻体会到追逐梦想的残酷与不易。为了在半决赛中战胜强敌Cheerful＊Days，遥在虚拟歌手的启发与深思熟虑后，大胆提出以雫为中心的全新舞台策略，旨在以超越以往的舞台表现力赢取评委认可，向着梦想全力飞跃。",
+  "outline_cn": "LUMINA大奖赛决赛阶段开幕，MORE MORE JUMP!终于要与Cheerful＊Days对战。虽然为团队的实力差距而烦恼，遥仍在不断寻找获胜的方法——。",
+  "summary_cn": "LUMINA大奖赛决赛开幕，MORE MORE JUMP!以第二名晋级，准决赛将对战强敌Cheerful＊Days。遥为传递希望而决心取胜，但苦于找不到必胜方案。与椿木千晴交流后，她意识到团队因实力差距而限制了创意，遂提出以雫为中心的舞台方案，获得成员信任。众人团结一致，誓要超越自我，在准决赛中绽放独特光辉。",
   "chapters": [
     {
       "chapter_no": 1,
       "title_jp": "始まりの時",
-      "title_cn": "开始之时",
-      "summary_cn": "MORE MORE JUMP！来到了豪华的专用休息室，准备迎接LUMINA大奖赛的决赛。成员们回想起一路走来的艰辛与晋级的喜悦，既兴奋又有些紧张。此时，虚拟歌手们现身为她们加油打气。遥向大家介绍，决赛及宣传节目将在世界知名的视频平台“网络天堂”向全球直播。想到能将希望传递给全世界更多的人，大家都感到充满期待与干劲。",
-      "character_ids": [
-        5,
-        6,
-        7,
-        8,
-        114,
-        26,
-        22,
-        21,
-        25,
-        24,
-        23,
-        132,
-        131,
-        133
-      ],
+      "title_cn": "起始之时",
+      "summary_cn": "工作人员带MORE MORE JUMP!来到豪华休息室，爱莉感叹网络天堂专用工作室的档次，雫回忆起合宿所。遥想起预选赛以第二名晋级，以及阿丽莎“下次决一胜负”的约定。虚拟歌手们前来加油，送上应援扇。遥提到决赛将通过网络天堂向海外配信，是传递希望的好机会。她鼓励大家像平时一样，先让告知节目的观众享受其中。最后演播室中，司会宣布决赛开幕，遥内心感慨“终于开始了”。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_01.webp"
     },
     {
       "chapter_no": 2,
       "title_jp": "対戦相手",
-      "title_cn": "对手",
-      "summary_cn": "遥在心中盘算着晋级决赛的四个组合，包括“ImU”、“ReLight”以及“Cheerful＊Days”。在节目演播室中，主持人向选手们提问。Cheerful＊Days的朱里和结雨、ImU的玲奈，以及MORE MORE JUMP！的爱莉和实乃里纷纷分享了对豪华舞台和登场方式的惊喜与兴奋。遥在一旁观察，发现实乃里等人虽然在录制前很紧张，但现在已经能自然地交谈，她认为这多亏了在预选赛中建立的默契。",
-      "character_ids": [
-        6,
-        114,
-        132,
-        133,
-        131,
-        7,
-        5,
-        8,
-        128
-      ],
+      "title_cn": "对战对手",
+      "summary_cn": "遥在演播室中回顾晋级决赛的四个团体，意识到对手是Cheerful＊Days。司会宣布准决赛为1对1对决，MORE MORE JUMP!将对战Cheerful＊Days。比赛规则为仅限一首歌的现场表演，由专业评审投票决定胜负，没有一般投票。遥深知对方实力强劲，但仍决定为观众传递希望。各团体代表发言时，遥表示与Cheerful＊Days的缘分令人欣喜，阿丽莎也回应要堂堂正正对决。最后司会宣布准决赛将在大型体育馆有观众举行，并提供新曲。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_02.webp"
     },
     {
       "chapter_no": 3,
       "title_jp": "準決勝に向けて",
-      "title_cn": "面向半决赛",
-      "summary_cn": "在节目演播室中，主持人宣布将由多位知名创作者为各个组合量身打造全新歌曲。爱莉和实乃里惊讶地发现，创作者中不仅有接连创作出热门歌曲的作曲家神原透，还有许多著名的偶像歌曲创作者。遥也注意到其中甚至有因创作初音未来等人的歌曲而闻名的创作者。雫则对这些平日里工作早已排满的繁忙创作者们能为此提供新歌感到十分不可思议。",
-      "character_ids": [
-        6,
-        8,
-        7,
-        5,
-        128,
-        131,
-        114
-      ],
+      "title_cn": "面向准决赛",
+      "summary_cn": "节目宣布将为各团体提供由著名作曲家（如神原透等）创作的新曲，舞台概念、演出等全部由团体自行决定，节目组全面支持。有泽日菜子致辞，强调偶像需在变化中保持自身特色、持续闪耀，遥联想到自己曾输给ReLight而失去工作。次日，众人在寝室整理行李，实乃里表示回家后感到寂寞，遥也有同感。爱莉虽嘴上说忙，但也不否认开心。遥提议大家互相支持，距离准决赛还有三个月，要全力以赴。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_03.webp"
     },
     {
       "chapter_no": 4,
       "title_jp": "決意を胸に",
-      "title_cn": "胸怀决心",
-      "summary_cn": "在寝室里，MORE MORE JUMP！成员们开始讨论新歌。面对由著名作曲家创作新歌的机会，实乃里十分兴奋，但爱莉和雫提醒大家要慎重。遥指出，由于本次比赛完全由评委投票决定胜负，不看重粉丝人气，因此纯粹的舞台表现力和自我策划能力将是关键。实乃里听后恍然大悟，意识到她们必须先明确自己想要呈现怎样的舞台，然后再以此为基础去构思新歌。",
-      "character_ids": [
-        8,
-        7,
-        5,
-        6,
-        128
-      ],
+      "title_cn": "心怀决意",
+      "summary_cn": "遥提议先决定新曲方向，爱莉提醒需认真规划，雫引用司会“如何展现自己，可能性无限大”的话。遥指出评审只看表演实力，因此自我打造至关重要。实乃里意识到应先构思舞台再选曲。众人谈到对手Cheerful＊Days实力强劲，SNS也预测对方获胜，爱莉承认客观劣势。遥却表示并非没有胜机，并回忆起有泽日菜子“在变化中保持自我、持续努力”的教诲。她认为只有超越现在的自己，才能找到属于她们的独特光辉。大家备受鼓舞，开始讨论舞台概念，实乃里提议用激烈歌曲制造冲击。遥内心坚定，誓要找出比对方更闪耀的道路。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_04.webp"
     },
     {
       "chapter_no": 5,
       "title_jp": "霧のその先",
-      "title_cn": "迷雾的彼端",
-      "summary_cn": "MORE MORE JUMP！成员们向虚拟歌手展示了舞台方案，并得到了KAITO等人的建议。几天后，遥看着为构思方案而累得睡着的实乃里，决定进一步完善以“绽放希望之花”为主题的舞台设计，通过歌舞展现人们在逆境中重新站起来的模样。虽然KAITO对方案大加赞赏，但遥仍觉得缺少了某种绝对能赢的实感。此时，她想起了柊曾说过的关于“能否为难以向前的人创造出重新相信希望的道路”的话。",
-      "character_ids": [
-        26,
-        21,
-        22,
-        6,
-        8,
-        7,
-        5,
-        130,
-        131
-      ],
+      "title_cn": "迷雾的前方",
+      "summary_cn": "遥与虚拟歌手们讨论舞台方案，虽已围绕“让希望之花绽放”的主题构思了多种演出，却仍觉得缺少必胜的把握。她回想起柊所说“能否开辟道路”的判断标准，意识到自己尚未真正相信这个方案。KAITO劝她暂时放下工作、转换心情，遥便前往训练室，偶遇同样在加练的椿木千晴。两人互相交流训练方法，遥在放松中调整心态，继续为准决赛做准备。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_05.webp"
     },
     {
       "chapter_no": 6,
       "title_jp": "負けられない理由",
       "title_cn": "不能输的理由",
-      "summary_cn": "一小时后，千晴开始指导遥进行训练。千晴介绍说，自己的训练项目主要是将有氧运动与核心训练相结合，包括开合跳、平板支撑转体、平板支撑上下移动以及卷腹等。遥对此表示赞同，并拜托千晴多多指教，两人随即正式投入到训练中。",
-      "character_ids": [
-        131,
-        6
-      ],
+      "summary_cn": "千晴与遥互相交流训练方法。千晴展示了自己以有氧运动和核心训练为主的菜单，并分享海外舞者的训练视频；遥也介绍了自己的热身方式和训练技巧，两人还聊到蛋白质的摄取时机。休息时，千晴称赞遥的体能如同运动员，遥也认可千晴的平衡训练。千晴表示为了在决赛中胜出，必须更加严格要求自己，不能辜负送她出道的人们。最后，千晴透露自己在加入ReLight之前曾属于另一个团体。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_06.webp"
     },
     {
       "chapter_no": 7,
       "title_jp": "迷いの果てに",
       "title_cn": "迷茫的尽头",
-      "summary_cn": "第二天，千晴向遥透露自己曾是地方偶像，前组合成员在送别会上为她表演的视频至今仍是她的宝物。她们曾共同梦想登上武道馆和巨蛋，但随着不断提升表演，成员间的实力差距逐渐显现，千晴意识到在原组合无法实现梦想。遥对此深有体会，明白有时即使再努力也无法弥补实力差距。最终，千晴为了追求梦想，选择退出原组合并加入了ReLight。",
-      "character_ids": [
-        6,
-        131,
-        7,
-        5,
-        8
-      ],
+      "summary_cn": "千晴向遥讲述自己曾是地方偶像，与伙伴们感情深厚，共同以武斗馆和巨蛋演出为目标。但成员间实力差距逐渐拉大，她意识到原团体无法实现梦想，于是退出并加入ReLight，虽遭非议却并不后悔。遥听后联想到自己和队友间也存在实力差距，意识到自己可能因顾虑差距而无意中限制了创意。她由此想到一个获胜的方法，次日向成员们提出：准决赛的舞台将以雫为中心来构建。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_07.webp"
     },
     {
       "chapter_no": 8,
       "title_jp": "“信じる”",
       "title_cn": "相信",
-      "summary_cn": "遥提出在半决赛中以雫为中心进行表演。虽然这种与以往完全不同的方式让大家感到困惑，但遥认为这是在仅有一次机会的半决赛中战胜Cheerful＊Days并获得评委认可的唯一方法。爱莉深知遥是经过深思熟虑才提出这一建议的，便请她向大家详细解释。遥随后说明，由于半决赛一局定胜负，她们必须拿出超越对手的舞台表现力。",
-      "character_ids": [
-        8,
-        5,
-        7,
-        6
-      ],
+      "summary_cn": "遥向成员们提出以雫为中心的舞台方案，解释这是为了在准决赛中超越Cheerful＊Days而必须做出的改变。她表示自己会全力支持雫，并希望实乃里和爱莉提升雫的魅力。成员们起初惊讶，但最终理解并信任遥的决定。雫也下定决心完成使命。遥感激大家的信任，决心回应这份信赖，带领团队突破自我，迈向胜利。",
+      "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_limits_2026/event_limits_2026_08.webp"
     }
   ]
