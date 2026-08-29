@@ -82,13 +82,6 @@ jobs:
             done
           fi
 
-          # Copy area story files from moesekai-hub/story/area to story/area
-          if [ -d "moesekai-hub/story/area" ]; then
-            mkdir -p story/area
-            cp -r moesekai-hub/story/area/* story/area/
-            echo "Copied area stories from MoeSekai-Hub"
-          fi
-
           rm -rf moesekai-hub
 
       - name: Regenerate event map CSV

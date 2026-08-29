@@ -6,8 +6,8 @@
 
 | 上游仓库 | 提供内容 |
 |----------|----------|
-| [ci-ke/ProjectSekai-story](https://github.com/ci-ke/ProjectSekai-story) | 中日文剧情原文（`story/unit`、`story/event`、`story/card`、`story/self`、`story/special` 等） |
-| [moe-sekai/MoeSekai-Hub](https://github.com/moe-sekai/MoeSekai-Hub) | 活动剧情 AI 摘要（`detail.json`）与区域对话（`story/area`） |
+| [ci-ke/ProjectSekai-story](https://github.com/ci-ke/ProjectSekai-story) | 中日文剧情原文（`story/unit`、`story/event`、`story/card`、`story/area`、`story/self`、`story/special` 等） |
+| [moe-sekai/MoeSekai-Hub](https://github.com/moe-sekai/MoeSekai-Hub) | 活动剧情 AI 摘要（`detail.json`） |
 
 活动映射表 `story/event/event_map.csv` 由 `generate_event_map.py` 从 masterdata 服务器（主源 `https://metadata.exmeaning.com/jp/master`，fallback [Team-Haruki/haruki-sekai-master](https://github.com/Team-Haruki/haruki-sekai-master)）拉取生成，并在自动同步流程中一并刷新。
 
@@ -128,7 +128,7 @@ story/card/{cardId}.txt
 
 ## story/area — 区域对话
 
-按类别分子目录，每个子目录下为该类别各区域对话的文本文件。
+由上游 `story_{lang}/area/talk_{category}.txt` 经 `migrate_story_paths.py` 拆分生成，按类别分子目录，每个子目录下为该类别各区域对话的文本文件。
 
 ### 子目录分类
 
