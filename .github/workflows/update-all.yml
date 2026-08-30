@@ -88,6 +88,8 @@ jobs:
         if: steps.check_upstream.outputs.changed == 'true'
         run: python generate_event_map.py
         timeout-minutes: 5
+        # masterdata 来自外部服务器，网络波动时允许失败跳过，不影响剧情同步
+        continue-on-error: true
 
       - name: Commit and push changes
         if: steps.check_upstream.outputs.changed == 'true'
