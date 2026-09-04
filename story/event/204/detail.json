@@ -1,24 +1,24 @@
 {
   "event_id": 204,
   "title_jp": "Stay solid, No fold",
-  "title_cn": "坚定不移，绝不屈服",
+  "title_cn": "坚定不移，绝不退缩",
   "outline_jp": "RUSH BEATSの予選に挑むVivid BAD SQUAD。セカンドステージでも会場を大いに盛り上げ、観客達からはダークホースとして実力が認められる。そんな中、こはね達はとある人物に声をかけられて……？",
-  "outline_cn": "挑战RUSH BEATS预选的Vivid BAD SQUAD。在第二舞台也将会场气氛推向高潮，观众们认可了他们的实力，称其为黑马。就在这时，心羽她们被某个人叫住了……？",
-  "summary_cn": "Vivid BAD SQUAD在RUSH BEATS预选赛中脱颖而出，晋级本战。赛后，传奇制作人DG主动接触并邀请他们参观Eagle music。心羽等人了解到DG与艾莲娜（illys）的过往，也坚定了靠自己开辟音乐道路的决心。然而，杏的父亲谦和大河警告他们DG危险，而DG也认为四人身边有“麻烦的保镖”，暗中安排处理。一场围绕音乐理念与商业野心的暗流悄然展开。",
+  "outline_cn": "挑战RUSH BEATS预选赛的Vivid BAD SQUAD在第二赛段同样点燃了全场，其实力作为黑马得到了观众们的认可。就在这时，心羽等人被某位人物叫住了……？",
+  "summary_cn": "Vivid BAD SQUAD成功晋级RUSH BEATS正赛，受到著名制作人道格拉斯的关注并受邀参观其公司。心羽等人虽听闻关于其唯利是图的警告，但在交流中仍展现出靠自身歌声开拓前路的坚定决心。返程时，众人偶遇谦和大河并被严厉告诫其极其危险。与此同时，道格拉斯在私下卸去伪装，因认定无法掌控利用的VBS终成阻碍，示意秘书着手暗中“处理”。",
   "chapters": [
     {
       "chapter_no": 1,
       "title_jp": "予選の結果は",
-      "title_cn": "预选的结果是",
-      "summary_cn": "Vivid BAD SQUAD在RUSH BEATS预选第二舞台的表演令会场沸腾，MC宣布他们作为今天最热门的队伍晋级本战。随后公布其他会场出线者：Embers、P.Z.，以及最后压轴出场的illys。心羽看到艾莲娜等人的实力，暗下决心要在本战中击败所有对手，目标是参加Lasting ECHO Fes。最后，一个神秘人物注视着他们。",
+      "title_cn": "预选赛的结果",
+      "summary_cn": "Vivid BAD SQUAD在RUSH BEATS预选第二赛段发挥出色，成功拿下正赛出线名额。随后各赛场联网公布晋级名单，斯莱德的Embers以及被誉为“绝对女王”的艾莲娜的illys等强队悉数晋级。作为爆冷黑马入围的心羽等人斗志昂扬，誓要在正赛中击败各路强敌，为登上Lasting ECHO Fes走向世界全力以赴。与此同时，一名神秘人物正在暗中注视着他们。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_01.webp"
     },
     {
       "chapter_no": 2,
       "title_jp": "予想外の申し出",
-      "title_cn": "意料之外的提议",
-      "summary_cn": "预选结束后，Vivid BAD SQUAD在会场外与观众互动，气氛热烈。冬弥提到斯莱德邀请他们明天在秘密基地办庆功宴。此时，世界知名音乐制作人DG突然现身，称赞他们的表演，并希望进一步了解他们，递上私人联系方式后离开。心羽因艾莲娜曾说过DG只把艺人当“商品”而心存疑虑，但众人决定先回酒店休息，之后再考虑是否联系。",
+      "title_cn": "出人意料的提议",
+      "summary_cn": "预选赛结束后，Vivid BAD SQUAD众人为全员晋级高兴，并收获了现场观众的认可与支持。此时，赛事赞助商兼知名音乐制作人DG（道格拉斯）突然现身，高度赞扬了他们的表演，并提出希望能更深入了解他们。心羽不禁想起艾莲娜之前对DG的评价而心生疑惑。道格拉斯见状留下了私人联系方式后离开。四人商议后决定暂不急于回复，先回酒店休息，日后再作考虑。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_02.webp"
     },
@@ -26,7 +26,7 @@
       "chapter_no": 3,
       "title_jp": "それぞれの意見",
       "title_cn": "各自的意见",
-      "summary_cn": "庆功宴上，心羽提起DG的邀请，艾莲娜强烈反对，称DG冷酷无情，只把艺人当商品，可能不怀好意；塞德里克则认为追求利益是商业常态，斯莱德觉得能见到传奇音乐人很兴奋，建议先见面再考虑。心羽虽有些不安，但仍想亲自了解DG，最终众人决定由冬弥联系对方，同时保持警惕。",
+      "summary_cn": "次日，Vivid BAD SQUAD与illys及Embers举行晋级庆祝会。心羽提到DG向他们递了联系方式，艾莲娜激动地警告心羽扔掉号码，称DG唯利是图且手段危险；塞德里克与丽贝卡则从商业和现实角度分析；斯莱德认为被传奇人物认可应先见一面。聚会结束后，心羽四人商议后决定在保持警戒的前提下接受邀约，由冬弥次日联系DG。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_03.webp"
     },
@@ -34,15 +34,15 @@
       "chapter_no": 4,
       "title_jp": "音楽への想い",
       "title_cn": "对音乐的心意",
-      "summary_cn": "数日后，Vivid BAD SQUAD与DG会面。KAITO来访得知此事，冬弥介绍DG的传奇经历：独立音乐人登顶后转做制作人，创立Eagle music培养新人。DG到场，认出四人名字，感谢他们抽空，并作为粉丝和友人父亲交谈。杏询问对预选表演的看法，DG称赞歌声充满力量与激情，能开拓时代。杏表示多亏艾莲娜等人的帮助，DG为女儿们感到骄傲。DG还提到认同艾伦的信念，并说出自己的愿景：让世界因优秀音乐而狂热，为此不惜一切。心羽觉得DG的愿景与自己相近，却更疑惑艾莲娜为何说他冷酷。",
+      "summary_cn": "数日后，心羽等人在赴约前向KAITO介绍了DG登顶乐坛后转型制作人提携后进的传奇经历。随后DG现身，态度谦逊诚恳，盛赞四人的表演充满开创新时代的力量。谈及音乐理念时，DG表示自己与艾伦一样致力于为音乐全力支持艺人，誓要亲手打造让全世界为音乐狂热的景象。心羽察觉到DG的愿景与己方十分接近，但这也让她对艾莲娜口中冷酷功利的DG形象感到越发困惑。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_04.webp"
     },
     {
       "chapter_no": 5,
       "title_jp": "Eagle music",
-      "title_cn": "Eagle music",
-      "summary_cn": "DG在咖啡厅听完心羽等人的目标后，称赞他们拥有出色的眼神，并提及自己与RADder的过往，对Nagi的离世感到惋惜，也认出杏是Ken的女儿。随后DG邀请众人参观Eagle music，心羽接受。到达后，DG因会议离开，秘书萨拉带领他们参观录音棚，介绍DG为艺术家不惜投入、真心热爱音乐的理念。一位音乐人也称赞DG是最懂音乐人的人。最后，有工作人员认出了Vivid BAD SQUAD。",
+      "title_cn": "Eagle Music",
+      "summary_cn": "道格拉斯得知四人的梦想是登上Lasting ECHO Fes后大加赞赏，坦言曾与RADder竞演并对凪深表敬重。随后，他邀请四人参观自己的公司Eagle Music。因道格拉斯需紧急参会，秘书莎拉带众人观摩录音棚。面对极其齐全的专业设备，莎拉与录音歌手皆表示DG全心支持音乐人且深受大家信赖，心羽等人也切实感受到他对音乐的热爱。就在这时，一名工作人员认出了Vivid BAD SQUAD。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_05.webp"
     },
@@ -50,23 +50,23 @@
       "chapter_no": 6,
       "title_jp": "視線",
       "title_cn": "视线",
-      "summary_cn": "在Eagle music录音棚，A&R工作人员认出Vivid BAD SQUAD，称赞他们进步神速，询问秘诀。冬弥提到受illys和Embers帮助，令萨拉等人惊讶。萨拉讲述DG与艾莲娜她们的过往：她们曾是Noverse，才华横溢，但DG急于将她们推向世界，过度制作让她们感到窒息，最终离开。工作人员想请四人帮忙联系illys，被杏拒绝。随后工作人员邀请他们在录音棚演唱，心羽在KAITO鼓励下尝试新唱法，表现出色，却察觉萨拉等人以看待“逸材”的目光注视自己，感到微妙不安。DG归来，杏接替演唱。",
+      "summary_cn": "工作人员认出VBS并大加赞赏，莎拉借机解释了illys曾作为爆款组合“Noverse”因不堪DG过度商业化包装而离开的过往。为表歉意，工作人员邀请众人体验录音棚。在KAITO的开导下，心羽进棚录唱《Unstoppable》，以惊艳实力折服全场。然而，莎拉等人将她视为未签约原石的炽热目光，让心羽在被夸奖的同时隐隐感到一丝异样。此时，开完会的道格拉斯回到了现场。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_06.webp"
     },
     {
       "chapter_no": 7,
       "title_jp": "私達の進み方",
-      "title_cn": "我们的前进方式",
-      "summary_cn": "离开Eagle music前，心羽向DG道歉，坦言从萨拉口中听说了他与艾莲娜她们的过往，DG表示理解，并说自己因意识到错误而选择守护她们的自由。DG问四人是否也想靠自己开辟道路，心羽回答他们虽受许多人帮助，但希望终有一天能像艾莲娜她们那样，用歌声开辟通往世界的道路，因为那样更令人心动。杏、彰人、冬弥也表达了相同志向。DG感慨他们的志向与女儿们一致，愿彼此成为好友与对手。",
+      "title_cn": "我们的前行之路",
+      "summary_cn": "参观结束后，道格拉斯托心羽向女儿们转达关心。心羽坦白得知了他与illys的过往，道格拉斯直言如今选择放手是为了守护她们的自由与音乐。随后道格拉斯询问VBS是否也会坚持靠自己开辟道路，心羽等人表示虽常受众人相助，但仍渴望凭借自身歌声开拓世界，享受克服险阻所带来的心动与喜悦。道格拉斯赞赏他们与女儿们志同道合，期许VBS能继续作为良友与劲敌与illys共同前行。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_07.webp"
     },
     {
       "chapter_no": 8,
       "title_jp": "再会、そして",
-      "title_cn": "再会，然后",
-      "summary_cn": "在Eagle music前，心羽发现天色已晚，DG本想请晚餐但作罢。此时杏的父亲谦和大河出现，惊讶于他们与DG在一起。DG解释是自己主动邀请他们参观公司。大河调侃是否挖角，DG称因预选赛歌声难忘。谦和大河警告四人不要与DG深交，称其权力大但传闻不佳，直觉感到危险。随后谦请他们吃饭。另一边，DG回到办公室，萨拉询问如何处置，DG认为那四人身边有麻烦的保镖，且那种人不好用，将来会成为障碍，便让萨拉安排处理。",
+      "title_cn": "重逢，随后",
+      "summary_cn": "心羽等人在Eagle Music门前与道格拉斯告别时偶遇旧识谦与大河。返程路上，谦和大河严肃告诫四人：道格拉斯权势虽大却毁誉参半，直觉预警他极其危险，切莫深交，令四人颇感疑惑。与此同时，回到公司的道格拉斯在与莎拉独处时彻底卸下伪装，冷酷地表示VBS有人护短且难以掌控利用，空有实力迟早会成为阻碍，随即示意莎拉着手暗中“处理”。",
       "character_ids": [],
       "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_staysolid_2026/event_staysolid_2026_08.webp"
     }
