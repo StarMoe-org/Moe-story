@@ -143,7 +143,7 @@ def build_event_raw_unit_map(action_sets: list[dict]) -> dict[int, str]:
     复用自 eventUnit.ts buildEventRawUnitMap()
     从 actionSets 数据构建 eventId → raw unit string 映射
     """
-    raw_map: dict[int, str] = {1: "band", 5: "idol", 6: "street", 9: "shuffle"}
+    raw_map: dict[int, str] = {1: "band", 5: "idol", 6: "street", 9: "shuffle", 16: "shuffle"}
 
     for action in action_sets:
         rc_id = str(action.get("releaseConditionId", ""))
