@@ -1,0 +1,26 @@
+{
+  "event_id": 218,
+  "title_jp": "Connect to SEKAI！",
+  "title_cn": "Connect to SEKAI！",
+  "outline_jp": "想いの欠片の持ち主との出来事が落ち着き、日常に戻った一歌達。しかし、またしてもセカイの木に異変が起きていると、それぞれのセカイのミク達が知らせに来て——！？",
+  "outline_cn": "围绕心愿碎片持有者的风波平息后，一歌等人重归日常。然而，各个世界的初音未来等人却突然前来告知，世界里的树木再次发生了异变——！？",
+  "summary_cn": "心愿碎片事件平息后，各世界的树木再次出现闪耀异变。五个组合的成员在初音未来等人的通知下回到世界，并在奏与司的号召下同时触碰树木，全员成功齐聚到拥有大树的神秘世界。众人与虚拟歌手们重逢，大树也在大家心愿的滋养下进一步成长并盛开鲜花。得知该世界已彻底稳定、今后随时都能来此相聚后，大家满怀喜悦地互相介绍同伴并许下约定，一同迎接崭新的未来。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "共にセカイへ！",
+      "title_cn": "一同前往世界！",
+      "summary_cn": "心愿碎片的事件告一段落后，各组合成员陆续收到各自世界初音未来的通知，得知各世界的树木再次闪烁发光、出现异变。大家迅速赶回各自的世界查看，发现树木比以往更加耀眼，且彼此间的声音清晰可闻。奏提议大家一同同时触碰树木，尝试全员一起前往那座拥有大树的世界。在得到大家赞同后，全员在司的号令下齐声倒数，一同伸手触碰了光芒闪耀的树木。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_finale_2026/event_wl_3rd_finale_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "これからは……！",
+      "title_cn": "从今往后……！",
+      "summary_cn": "全员成功在神秘世界齐聚，与这里的虚拟歌手们重逢。此时大树再次发生异变，变得更加巨大且盛开鲜花。初音未来解释这是大家接触彼此的心愿并使其成长的结果；MEIKO等人也说明该世界已彻底稳定，大家今后随时都能来此相聚。一歌等人不再受分别的担忧困扰，热情地将各自的同伴介绍给虚拟歌手们。初音未来与大家约定随时在此相见，众人开心地迎向崭新的未来。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_wl_3rd_finale_2026/event_wl_3rd_finale_2026_02.webp"
+    }
+  ]
+}
