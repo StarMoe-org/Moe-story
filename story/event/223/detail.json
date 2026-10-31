@@ -1,0 +1,74 @@
+{
+  "event_id": 223,
+  "title_jp": "いつかの君へ、旋律を",
+  "title_cn": "献给某日的你，旋律",
+  "outline_jp": "まふゆを救うためには、どうすればいいのか。家庭の問題に自分が踏み込んでもいいのだろうか、と悩み続ける奏。そんなある日、父の見舞いで訪れた病院で、ひとりの少女と出会い——。",
+  "outline_cn": "为了拯救真冬，奏不断在思考自己究竟该怎么做。她苦恼于是否应该插手真冬的家庭问题。就在这时，她在去探望父亲的医院里，邂逅了一名少女——。",
+  "summary_cn": "为了拯救深陷家庭矛盾的真冬，奏在苦恼与犹豫中不断摸索，并在医院意外邂逅了少女真结。通过与真结的交流，奏深刻理解了被关怀者渴望被信任的心声，并与流歌、未来深入对话，直面了内心因害怕失去“被需要感”而导致的恐惧与迟疑。最终，奏克服了对最坏结果的阴影，将这份痛苦而强韧的意志化作旋律，创作出承载拯救之愿的乐曲，在绘名与瑞希的支持下，坚定地踏出了拯救真冬的关键一步。",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_jp": "答えの出ない日々",
+      "title_cn": "没有答案的日子",
+      "summary_cn": "线上会议结束后，奏独自陷入了沉思。她理解绘名等人提出的“建议真冬与家人保持距离”的方案，但却不确定这是否正确，也因自己并非真冬家人而对干涉其家庭感到犹豫。与此同时，在宵崎家，真冬发现奏因劳累在椅子上睡着并为其盖上了毯子。面对真冬，奏依然无法坦然处理如何应对其家庭现状的问题。看着真冬为了给来访的父亲准备红茶而独自出门，奏愈发感受到必须要尽快找到拯救真冬的答案。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_01.webp"
+    },
+    {
+      "chapter_no": 2,
+      "title_jp": "気になる出会い",
+      "title_cn": "令人在意的邂逅",
+      "summary_cn": "奏在探望完父亲后，与在无名世界中陪伴她的流歌在医院走廊交谈。流歌提出想在回去前四处转转，两人便打算离开。在走廊转角，奏不慎与一名少女相撞，随后的护士认出了该少女“真结”。真结冷漠地要求护士转达母亲不必再来探望自己，并表示现在不想见面，随后留在了走廊。奏目睹了这一切，对真结拒绝家人的态度感到在意，并对护士将真结独自留下感到担忧。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_02.webp"
+    },
+    {
+      "chapter_no": 3,
+      "title_jp": "きっかけは音楽で",
+      "title_cn": "契机在于音乐",
+      "summary_cn": "奏在流歌的鼓励下，鼓起勇气与之前在走廊相遇的少女真结搭话。意外的是，真结正好也在听“25时，在Nightcord。”的乐曲，两人因此打开了话匣子，交流起关于音乐的感想。在得知真结对作曲感兴趣但无从下手后，奏在对方的指导下尝试了作曲App，并因其出色的音乐素养让真结感到惊喜。通过这次意料之外的交流，奏放下戒备展现了作曲的一面。与此同时，在无人的世界中，流歌与MEIKO交谈，期待这次与外部人员的接触能为奏带来新的灵感。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_03.webp"
+    },
+    {
+      "chapter_no": 4,
+      "title_jp": "新たに見える未来",
+      "title_cn": "视野中浮现的未来",
+      "summary_cn": "奏与真结在交谈中深入探讨了家庭关系。真结吐露心声，她并非讨厌父母的关心，而是厌烦父母过度担忧且忽视她的真实意愿，这让她感到不安与烦躁，导致双方见面常起争执。奏意识到，真结渴望的是家人对她康复的信任，而非无止境的忧虑。通过这段对话，奏对真结那份“想让家人相信自己能好起来”的心情产生了共鸣，并暗自思索如何帮助真结缓解与父母的矛盾，同时也在这份互动中汲取了新的感悟。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_04.webp"
+    },
+    {
+      "chapter_no": 5,
+      "title_jp": "答え",
+      "title_cn": "答案",
+      "summary_cn": "奏在公园与MEIKO和流歌会合，交流了关于真冬与其母亲关系的困惑。奏坦言自己因为害怕最坏的结果，对于是否干预真冬的家庭感到迟疑，担心盲目插手反而会夺走对方的选择权。MEIKO指出世间没有绝对的答案，但也提醒她若不伸出援手，对方可能永远无法走出黑暗。在MEIKO的引导下，奏意识到无论结果如何，决定权始终在真冬手中，这并非她一人的责任。面对依然止步不前的奏，流歌直指她内心藏有某种深层的恐惧，并提出要揭开这份恐惧的真相。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_05.webp"
+    },
+    {
+      "chapter_no": 6,
+      "title_jp": "恐怖の理由",
+      "title_cn": "恐惧的理由",
+      "summary_cn": "为了拯救真冬，奏恳求流歌揭开她内心迟迟无法做出决定的原因。流歌指出奏之所以感到恐惧，是因为她在潜意识里并不相信真冬与其母亲能够真正和解，总是预设最坏的结局。流歌进一步质问奏，这种让未来停滞不前的恐惧感究竟源于何处，并点出奏一直以来的守护方式与另一种决断之间的矛盾。面对流歌关于过去的回忆与质询，奏陷入了极度的动摇与痛苦中。最终，流歌告知奏，如果无法直面这份深层的恐惧并解开内心疙瘩，她将难以创作出真正拯救真冬的乐曲。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_06.webp"
+    },
+    {
+      "chapter_no": 7,
+      "title_jp": "本当の想い",
+      "title_cn": "真实的思绪",
+      "summary_cn": "在无人的世界中，奏因流歌的话语感到迷茫不安。初音未来陪伴着她，引导奏去面对自己内心真正的渴望。在对话中，奏意识到自己为真冬作曲的执念，与她最初为了父亲而创作的初衷有着某种关联。面对未来提出的质疑，奏因陷入对未来的恐惧而呼吸困难。在未来的安抚下，她逐渐平静并最终领悟了这份动摇她创作的感情本质。奏痛苦地意识到，自己内心深处那份对失去“被需要感”的恐惧，恰恰是创作拯救真冬之曲时的阻碍。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_07.webp"
+    },
+    {
+      "chapter_no": 8,
+      "title_jp": "暗闇の向こうにある音",
+      "title_cn": "暗影彼方的音色",
+      "summary_cn": "奏终于领悟到拯救真冬的乐曲所需之物，她直面内心的恐惧与苦痛，将这份共鸣化作音符，最终创作出这首承载着拯救之愿的曲子。在无人的世界中，她向瑞希与绘名展示了这首意义非凡的最终曲。感受着曲中那份尽管痛苦却依然强韧的决心，瑞希与绘名深受触动，并主动提出要协助奏一起将这份心意传达给真冬。与此同时，在朝比奈家中，真冬的父亲陷入了对过去的回忆与对现状的深切反思之中。",
+      "character_ids": [],
+      "image_url": "https://cdn.jsdelivr.net/gh/Exmeaning/Exmeaning-Image-hosting@main/event_story/event_someday_2026/event_someday_2026_08.webp"
+    }
+  ]
+}
